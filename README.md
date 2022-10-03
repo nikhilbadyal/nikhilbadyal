@@ -4,7 +4,7 @@
 <h3 align="center">I'm Nikhil Badyal, A developing developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilbadyal&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilbadyal" /> </p>
-<p align="left"> <img src="https://github.com/nikhilbadyal/nikhilbadyal/blob/main/images/stat.svg" alt="Nikhil's WakaTime Activity" /> </p>
+<p align="left"> <img src="https://github.com/nikhilbadyal/nikhilbadyal/blob/main/images/stat.svg" alt="Nikhil WakaTime Activity" /> </p>
 
 
 ## 🏆 GitHub Trophies
@@ -22,12 +22,7 @@
 - ⚡ Fun fact: I use tabs over spaces
 
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilbadyal)
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -69,3 +64,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=nikhilbadyal&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikhilbadyal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilbadyal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+## 🌐 Connect with me
+<div align="center">
+<a href="https://github.com/nikhilbadyal" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/nikhilbadyal" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
