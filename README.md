@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on [Keep Notes](https://github.com/nikhilbadyal/keepnotes)
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikhilbadyal](https://github.com/nikhilbadyal)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/nikhilbadyal)
 
 - ⚡ Fun fact: I use tabs over spaces
 
