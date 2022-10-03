@@ -2,6 +2,7 @@
 <h3 align="center">A developing developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilbadyal&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilbadyal" /> </p>
+<p align="left"> <img src="https://github.com/nikhilbadyal/nikhilbadyal/blob/main/images/stat.svg" alt="Nikhil's WakaTime Activity" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilbadyal" alt="nikhilbadyal" /></a> </p>
 
