@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Django & AWS Stack**
 
-- 👯 I’m looking to collaborate on [Keep Notes](https://github.com/nikhilbadyal/keepnotes)
+- 👯 I’m looking to collaborate on [esxport](https://github.com/nikhilbadyal/esxport)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/nikhilbadyal)
 
