@@ -1,6 +1,6 @@
 <!--suppress ALL -->
 <div align="center">
-<img src="https://media1.tenor.com/m/nB37dEyQ_H4AAAAd/hey-cat.gif" align="center" style="width: 20%"  alt="greeting"/>
+<img src="https://media1.tenor.com/m/nB37dEyQ_H4AAAAd/hey-cat.gif" align="center" style="width: 40%"  alt="greeting"/>
 </div>  
 <h3 align="center">I'm Nikhil Badyal, A developing developer</h3>
 
