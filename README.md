@@ -5,7 +5,7 @@
 <h3 align="center">I'm Nikhil Badyal, A developing developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilbadyal&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilbadyal" /> </p>
-<p align="left"> <img src="https://github.com/nikhilbadyal/nikhilbadyal/blob/main/images/stat.svg" alt="Nikhil WakaTime Activity" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/nikhilbadyal/nikhilbadyal/refs/heads/main/images/stat.svg" alt="Nikhil WakaTime Activity" /> </p>
 
 
 ## 🏆 GitHub Trophies
