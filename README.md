@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on [esxport](https://github.com/nikhilbadyal/esxport)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/nikhilbadyal)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/nikhilbadyal?tab=repositories&sort=)
 
 - ⚡ Fun fact: I use tabs over spaces
 
