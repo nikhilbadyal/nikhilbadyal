@@ -1,11 +1,11 @@
 <!--suppress ALL -->
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%"  alt="greeting"/>
+<img src="https://media1.tenor.com/m/nB37dEyQ_H4AAAAd/hey-cat.gif" align="center" style="width: 40%"  alt="greeting"/>
 </div>  
 <h3 align="center">I'm Nikhil Badyal, A developing developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilbadyal&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilbadyal" /> </p>
-<p align="left"> <img src="https://github.com/nikhilbadyal/nikhilbadyal/blob/main/images/stat.svg" alt="Nikhil WakaTime Activity" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/nikhilbadyal/nikhilbadyal/refs/heads/main/images/stat.svg" alt="Nikhil WakaTime Activity" /> </p>
 
 
 ## 🏆 GitHub Trophies
@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on [esxport](https://github.com/nikhilbadyal/esxport)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/nikhilbadyal)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/nikhilbadyal?tab=repositories&sort=)
 
 - ⚡ Fun fact: I use tabs over spaces
 
@@ -68,14 +68,14 @@
 
 
 ## 🌐 Connect with me
-<div align="center">
-<a href="https://github.com/nikhilbadyal" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/nikhilbadyal" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/12136319/nikhil-badyal" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+<div style="text-align: center;">
+  <a href="https://github.com/nikhilbadyal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/nikhilbadyal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://stackoverflow.com/users/12136319/nikhil-badyal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="margin-bottom: 5px;" />
+  </a>
 </div>
