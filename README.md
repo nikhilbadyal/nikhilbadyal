@@ -12,11 +12,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=nikhilbadyal&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 
-- 🔭 I’m currently working on [Docker Py Revanced](https://github.com/nikhilbadyal/docker-py-revanced)
+- 🔭 I’m currently working on [release-tracker](https://github.com/nikhilbadyal/release-tracker)
 
 - 🌱 I’m currently learning **Django & AWS Stack**
 
-- 👯 I’m looking to collaborate on [esxport](https://github.com/nikhilbadyal/esxport)
+- 👯 I’m looking to collaborate on [esxport](https://github.com/nikhilbadyal/esxport) and [Docker Py Revanced](https://github.com/nikhilbadyal/docker-py-revanced)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/nikhilbadyal?tab=repositories&sort=)
 
