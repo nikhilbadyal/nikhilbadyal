@@ -12,7 +12,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=nikhilbadyal&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 
-- 🔭 I’m currently working on [release-tracker](https://github.com/nikhilbadyal/release-tracker), [aws-auto-sso](https://github.com/nikhilbadyal/auto-aws-sso) and [bitwarden-backup](https://github.com/nikhilbadyal/bitwarden-backup)
+- 🔭 I’m currently working on [release-tracker](https://github.com/nikhilbadyal/release-tracker), [aws-auto-sso](https://github.com/nikhilbadyal/auto-aws-sso), [bitwarden-backup](https://github.com/nikhilbadyal/bitwarden-backup) and [notion-backup](https://github.com/nikhilbadyal/notion-backup)
 
 - 🌱 I’m currently learning **Django & AWS Stack**
 
